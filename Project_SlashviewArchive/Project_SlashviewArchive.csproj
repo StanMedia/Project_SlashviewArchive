@@ -1973,6 +1973,15 @@
     <Content Include="img\2023\20230711_10.jpg" />
     <Content Include="img\2023\20230816_01.jpg" />
     <Content Include="img\2023\20230816_02.jpg" />
+    <Content Include="img\2023\20230830_01.jpg" />
+    <Content Include="img\2023\20230831_01.jpg" />
+    <Content Include="img\2023\20230831_02.jpg" />
+    <Content Include="img\2023\20230831_03.jpg" />
+    <Content Include="img\2023\20230831_04.jpg" />
+    <Content Include="img\2023\20230831_05.jpg" />
+    <Content Include="img\2023\20230831_06.jpg" />
+    <Content Include="img\2023\20230831_07.jpg" />
+    <Content Include="img\2023\20230831_08.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
