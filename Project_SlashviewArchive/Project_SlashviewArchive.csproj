@@ -99,6 +99,7 @@
     <None Include="file\20221202\《Game &amp; Watch 超級瑪利歐兄弟》隱藏指令表.pdf" />
     <None Include="file\20221212\An important next step on our AI journey.pdf" />
     <None Include="file\20221221\FocalTech Fingerprint Reader Driver.zip" />
+    <None Include="file\20230810\The PFAS Restriction Proposal.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="file\20150929\SyncTimeViaHTTP.exe" />
