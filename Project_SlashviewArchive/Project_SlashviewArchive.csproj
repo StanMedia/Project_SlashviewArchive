@@ -1988,6 +1988,19 @@
     <Content Include="img\2023\20230901_03.jpg" />
     <Content Include="img\2023\20230919_01.jpg" />
     <Content Include="img\2023\20230919_02.jpg" />
+    <Content Include="img\2023\20231005_01.jpg" />
+    <Content Include="img\2023\20231005_02.jpg" />
+    <Content Include="img\2023\20231005_03.jpg" />
+    <Content Include="img\2023\20231005_04.jpg" />
+    <Content Include="img\2023\20231005_05.jpg" />
+    <Content Include="img\2023\20231005_06.jpg" />
+    <Content Include="img\2023\20231005_07.jpg" />
+    <Content Include="img\2023\20231005_08.jpg" />
+    <Content Include="img\2023\20231005_09.jpg" />
+    <Content Include="img\2023\20231005_10.jpg" />
+    <Content Include="img\2023\20231005_11.jpg" />
+    <Content Include="img\2023\20231005_12.jpg" />
+    <Content Include="img\2023\20231005_13.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
