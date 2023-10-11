@@ -2001,6 +2001,13 @@
     <Content Include="img\2023\20231005_11.jpg" />
     <Content Include="img\2023\20231005_12.jpg" />
     <Content Include="img\2023\20231005_13.jpg" />
+    <Content Include="img\2023\20231007_01.jpg" />
+    <Content Include="img\2023\20231007_02.jpg" />
+    <Content Include="img\2023\20231007_03.jpg" />
+    <Content Include="img\2023\20231007_04.jpg" />
+    <Content Include="img\2023\20231007_06.jpg" />
+    <Content Include="img\2023\20231007_07.jpg" />
+    <Content Include="img\2023\20231007_05.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
