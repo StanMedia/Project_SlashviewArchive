@@ -2026,6 +2026,16 @@
     <Content Include="img\2023\20231010_02.jpg" />
     <Content Include="img\2023\20231010_03.jpg" />
     <Content Include="img\2023\20231010_04.jpg" />
+    <Content Include="img\2023\20231016_01.jpg" />
+    <Content Include="img\2023\20231016_02.jpg" />
+    <Content Include="img\2023\20231016_03.jpg" />
+    <Content Include="img\2023\20231016_04.jpg" />
+    <Content Include="img\2023\20231016_05.jpg" />
+    <Content Include="img\2023\20231016_06.jpg" />
+    <Content Include="img\2023\20231016_07.jpg" />
+    <Content Include="img\2023\20231016_08.jpg" />
+    <Content Include="img\2023\20231016_09.jpg" />
+    <Content Include="img\2023\20231016_10.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
