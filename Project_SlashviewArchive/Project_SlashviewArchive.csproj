@@ -100,6 +100,10 @@
     <None Include="file\20221212\An important next step on our AI journey.pdf" />
     <None Include="file\20221221\FocalTech Fingerprint Reader Driver.zip" />
     <None Include="file\20230810\The PFAS Restriction Proposal.pdf" />
+    <None Include="file\20240301\SleepyHead WIN32 1.0.0-beta-2.zip" />
+    <None Include="file\20240301\特定醫療器材專案核准製造或輸入申請書.docx" />
+    <None Include="file\20240301\醫療器材使用說明書 S10.pdf" />
+    <None Include="file\20240301\醫療器材個人自用切結書.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="file\20150929\SyncTimeViaHTTP.exe" />
@@ -2067,6 +2071,17 @@
     <Content Include="img\2024\20240129_11.jpg" />
     <Content Include="img\2024\20240129_12.jpg" />
     <Content Include="img\2024\20240129_13.jpg" />
+    <Content Include="img\2024\20240301_01.jpg" />
+    <Content Include="img\2024\20240301_02.jpg" />
+    <Content Include="img\2024\20240301_03.jpg" />
+    <Content Include="img\2024\20240301_04.jpg" />
+    <Content Include="img\2024\20240301_05.jpg" />
+    <Content Include="img\2024\20240301_06.jpg" />
+    <Content Include="img\2024\20240301_07.jpg" />
+    <Content Include="img\2024\20240301_08.jpg" />
+    <Content Include="img\2024\20240301_09.jpg" />
+    <Content Include="img\2024\20240301_10.jpg" />
+    <Content Include="img\2024\20240301_11.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
