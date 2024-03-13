@@ -104,6 +104,7 @@
     <None Include="file\20240301\特定醫療器材專案核准製造或輸入申請書.docx" />
     <None Include="file\20240301\醫療器材使用說明書 S10.pdf" />
     <None Include="file\20240301\醫療器材個人自用切結書.docx" />
+    <None Include="file\20240314\redis-cli.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="file\20150929\SyncTimeViaHTTP.exe" />
@@ -2094,6 +2095,9 @@
     <Content Include="img\2024\20240313_03.jpg" />
     <Content Include="img\2024\20240313_04.jpg" />
     <Content Include="img\2024\20240313_05.jpg" />
+    <Content Include="img\2024\20240314_01.jpg" />
+    <Content Include="img\2024\20240314_02.jpg" />
+    <Content Include="img\2024\20240314_03.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
