@@ -2132,10 +2132,21 @@
     <Content Include="img\2024\20240419_04.jpg" />
     <Content Include="img\2024\20240507_01.jpg" />
     <Content Include="img\2024\20240508_01.jpg" />
-    <Content Include="img\2024\20240508_02.jpg" />
-    <Content Include="img\2024\20240508_03.jpg" />
-    <Content Include="img\2024\20240508_04.jpg" />
     <Content Include="img\2024\20240509_01.jpg" />
+    <Content Include="img\2024\20240510_01.jpg" />
+    <Content Include="img\2024\20240510_02.jpg" />
+    <Content Include="img\2024\20240510_03.jpg" />
+    <Content Include="img\2024\20240510_04.jpg" />
+    <Content Include="img\2024\20240510_05.jpg" />
+    <Content Include="img\2024\20240510_06.jpg" />
+    <Content Include="img\2024\20240510_07.jpg" />
+    <Content Include="img\2024\20240510_08.jpg" />
+    <Content Include="img\2024\20240510_09.jpg" />
+    <Content Include="img\2024\20240510_10.jpg" />
+    <Content Include="img\2024\20240510_11.jpg" />
+    <Content Include="img\2024\20240510_12.jpg" />
+    <Content Include="img\2024\20240510_13.jpg" />
+    <Content Include="img\2024\20240510_14.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
