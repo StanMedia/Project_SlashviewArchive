@@ -109,6 +109,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="file\20150929\SyncTimeViaHTTP.exe" />
+    <Content Include="file\20240820\GimyForKids.user.js" />
     <Content Include="img\2013\20130701_01.jpg" />
     <Content Include="img\2013\20130701_02.jpg" />
     <Content Include="img\2013\20130701_03.jpg" />
@@ -2190,5 +2191,6 @@
     <Content Include="img\2024\20240709_01.jpg" />
     <Content Include="img\2024\20240710_01.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
