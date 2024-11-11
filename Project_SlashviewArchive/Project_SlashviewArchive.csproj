@@ -2210,6 +2210,10 @@
     <Content Include="img\2024\20241012_07.jpg" />
     <Content Include="img\2024\20241012_08.jpg" />
     <Content Include="img\2024\20241106_01.jpg" />
+    <Content Include="img\2024\20241107_01.jpg" />
+    <Content Include="img\2024\20241107_02.jpg" />
+    <Content Include="img\2024\20241107_03.jpg" />
+    <Content Include="img\2024\20241107_04.jpg" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
