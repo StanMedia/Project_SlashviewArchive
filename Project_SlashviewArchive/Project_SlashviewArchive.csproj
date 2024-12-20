@@ -2245,6 +2245,31 @@
     <Content Include="img\2024\20241128_01.jpg" />
     <Content Include="img\2024\20241128_02.jpg" />
     <Content Include="img\2024\20241128_03.jpg" />
+    <Content Include="img\2024\20241220_01.jpg" />
+    <Content Include="img\2024\20241220_02.jpg" />
+    <Content Include="img\2024\20241220_03.jpg" />
+    <Content Include="img\2024\20241220_04.jpg" />
+    <Content Include="img\2024\20241220_05.jpg" />
+    <Content Include="img\2024\20241220_06.jpg" />
+    <Content Include="img\2024\20241220_07.jpg" />
+    <Content Include="img\2024\20241220_08.jpg" />
+    <Content Include="img\2024\20241220_09.jpg" />
+    <Content Include="img\2024\20241220_10.jpg" />
+    <Content Include="img\2024\20241220_11.jpg" />
+    <Content Include="img\2024\20241220_12.jpg" />
+    <Content Include="img\2024\20241220_13.jpg" />
+    <Content Include="img\2024\20241220_14.jpg" />
+    <Content Include="img\2024\20241220_15.jpg" />
+    <Content Include="img\2024\20241220_16.jpg" />
+    <Content Include="img\2024\20241220_17.jpg" />
+    <Content Include="img\2024\20241220_18.jpg" />
+    <Content Include="img\2024\20241220_19.jpg" />
+    <Content Include="img\2024\20241220_20.jpg" />
+    <Content Include="img\2024\20241220_21.jpg" />
+    <Content Include="img\2024\20241220_22.jpg" />
+    <Content Include="img\2024\20241220_23.jpg" />
+    <Content Include="img\2024\20241220_24.jpg" />
+    <Content Include="img\2024\20241220_25.jpg" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
